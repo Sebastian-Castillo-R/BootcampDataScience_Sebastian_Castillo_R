@@ -5,15 +5,7 @@ Este repositorio contiene los ejercicios, talleres y proyectos desarrollados dur
 
 ## Contenido del repositorio y Habilidades Demostradas
 
-### 1. Ejercicios de Pandas (Python)
-* Manipulación y limpieza de datos.
-* Análisis exploratorio de datos (EDA).
-
-### 2. Bases de Datos (SQL)
-* Consultas básicas (SELECT, WHERE).
-* Ordenamiento de datos (ORDER BY).
-* Joins (INNER, LEFT).
-* Agregaciones (SUM, COUNT, GROUP BY).
-
----
-*Desarrollado por [Tu Nombre] - Estudiante de Data Science*
+### 1. Ejercicios (Python básico)
+* Funciones
+* Modularización
+* Manejo de errores
